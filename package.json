@@ -1,0 +1,15 @@
+{
+  "name": "myhw8",
+  "version": "1.0.0",
+  "description": "my website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Chris Liu",
+  "license": "ISC",
+  "dependencies": {
+    "rateyo": "^2.3.3",
+    "yelp-fusion": "^2.0.3"
+  }
+}
